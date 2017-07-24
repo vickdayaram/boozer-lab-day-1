@@ -2,4 +2,19 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-color: #e9eceb;
+}
+
+.panel {
+  margin-top: 75px;
+  margin-left: 75px;
+}
+
+.cocktailShow {
+  width: 60%;
+  float: right;
+  background-color: #cdcdcd;
+  height: 480px;
+  margin: 10px;
+  border-radius: 8px;
 }
